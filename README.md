@@ -1,6 +1,22 @@
+# No Man's Sky Base Aligner — Deprecated
+
+**This project has been superseded by No Man's Sky 3D Base Aligner.**
+
+The replacement is a substantially improved version of this utility, with expanded functionality and an independent development history.
+
+**For the latest version, documentation, and ongoing development, please visit:**
+
+[No Man's Sky 3D Base Aligner](https://github.com/ebaleytherogue/No-Mans-Sky-3D-Base-Aligner)
+
+_This repository is archived and will no longer receive updates._
+
+The original README text is preserved below.
+
 # No-Man-s-Sky_Base-Aligner
 Aligns bases based on a two point Pin-and-Yarn system
-# Transferring and aligning an NMS base with Vector Commander's NMSE
+
+
+## Transferring and aligning an NMS base with Vector Commander's NMSE
 
 This procedure copies a build from one owned base to another owned base, replacing the destination's construction while preserving the destination's base identity and location. It uses two objects placed at corresponding reference points to measure any remaining rotation and shift. A fixed feature, like a portal pillar, can help, but the procedure also works where no portal is involved.
 
